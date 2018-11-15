@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bus-application/bus-application.iml" filepath="$PROJECT_DIR$/bus-application/bus-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus-application-client/bus-application-client.iml" filepath="$PROJECT_DIR$/bus-application-client/bus-application-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus-application-provider-test/bus-application-provider-test.iml" filepath="$PROJECT_DIR$/bus-application-provider-test/bus-application-provider-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pact-jvm-example.iml" filepath="$PROJECT_DIR$/.idea/pact-jvm-example.iml" />
+    </modules>
+  </component>
+</project>
